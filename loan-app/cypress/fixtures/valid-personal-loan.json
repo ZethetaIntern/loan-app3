@@ -1,0 +1,13 @@
+{
+  "step1": { "loanTypeLabel": "Personal loan", "amount": "300000", "tenure": "36", "purpose": "Wedding" },
+  "step2": {
+    "fullName": "Aditi Sharma", "dob": "1994-05-12", "gender": "Female", "maritalStatus": "Single",
+    "fatherName": "Ramesh Sharma", "motherName": "Sunita Sharma", "email": "aditi.sharma@example.com", "mobile": "9876543210"
+  },
+  "step3": { "pan": "ABCPS1234P", "aadhaar": "234123412346" },
+  "step4": { "address1": "12 MG Road", "pincode": "462001", "residenceType": "Owned", "years": "5" },
+  "step5": {
+    "employmentLabel": "Salaried", "companyName": "Acme Technologies", "designation": "Senior Analyst",
+    "monthlySalary": "65000", "yearsExperience": "6"
+  }
+}
